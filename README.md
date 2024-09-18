@@ -1,5 +1,5 @@
 # DSA-MZU
- DSA introduction for B.Tech 3rd Sem - Mizoram University
+ Data Structures and Algorithms introduction. Prepared by Dr. Vanlalruata Hnamte
 
 # Data Structures and Algorithms Code Repository
 
@@ -68,11 +68,4 @@ Welcome to the **Data Structures and Algorithms Code Repository**! This reposito
 
 ### Prerequisites
 
-To run the code, you need to have a C++ compiler installed. You can use any IDE such as Visual Studio, Code::Blocks, or a command-line tool like g++.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/data-structures-algorithms.git
-
+To run the code, you need to have a C++ compiler installed. You can use any compile with IDE or standalone, but we suggest using Code::Blocks
